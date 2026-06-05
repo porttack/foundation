@@ -1,0 +1,48 @@
+title: SLV Foundation for Education
+description: Funding Education In San Lorenzo Valley since 2003
+baseurl: "/foundation"
+url: "https://porttack.github.io"
+
+# When custom domain is live, change to:
+# baseurl: ""
+# url: "https://slvfoundation.org"
+
+theme: minima
+
+author:
+  name: SLV Foundation for Education
+  email: SLVFoundation4Education@gmail.com
+
+org:
+  fein: "46-0502462"
+  phone: ""
+  address: "325 Marion Ave, Ben Lomond CA 95005"
+  facebook: "https://www.facebook.com"  # update with real URL
+
+nav_pages:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Scholarships
+    url: /scholarships/
+  - title: Programs
+    url: /programs/
+  - title: Community Partners
+    url: /community-partners/
+  - title: News
+    url: /news/
+  - title: Donate
+    url: /donate/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+permalink: /:title/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

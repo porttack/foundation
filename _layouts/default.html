@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="{{ '/' | relative_url }}" class="site-logo-link">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}"
+             alt="SLV Foundation for Education logo"
+             class="site-logo"
+             onerror="this.style.display='none'">
+        <div class="site-title-block">
+          <span class="site-title-main">SLV Foundation</span>
+          <span class="site-title-sub">for Education</span>
+        </div>
+      </a>
+      <a href="{{ '/donate/' | relative_url }}" class="donate-btn header-donate">Make a Donation</a>
+    </div>
+    <nav class="site-nav">
+      <div class="nav-inner">
+        {% for item in site.nav_pages %}
+          <a href="{{ item.url | relative_url }}"
+             class="nav-link{% if page.url == item.url %} active{% endif %}">
+            {{ item.title }}
+          </a>
+        {% endfor %}
+      </div>
+    </nav>
+  </header>
+
+  <main class="site-main">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-col">
+        <div class="footer-logo-block">
+          <img src="{{ '/assets/images/logo.png' | relative_url }}"
+               alt="SLV Foundation logo"
+               class="footer-logo"
+               onerror="this.style.display='none'">
+          <div>
+            <strong>SLV Foundation for Education</strong>
+            <p>501(c)(3) Non-Profit Organization</p>
+            <p>FEIN #{{ site.org.fein }}</p>
+          </div>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Contact</h4>
+        <p>{{ site.author.name }}</p>
+        <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+        <p>{{ site.org.address }}</p>
+      </div>
+      <div class="footer-col">
+        <h4>Follow Us</h4>
+        <a href="{{ site.org.facebook }}" class="social-link" target="_blank" rel="noopener">
+          Facebook
+        </a>
+        <div style="margin-top: 1.5rem;">
+          <a href="{{ '/donate/' | relative_url }}" class="donate-btn">Donate Now</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; {{ 'now' | date: "%Y" }} SLV Foundation for Education. Funding education in San Lorenzo Valley since 2003.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
