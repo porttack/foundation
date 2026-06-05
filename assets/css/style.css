@@ -335,6 +335,40 @@ hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
   font-size: 1.05rem;
 }
 
+/* ---- Compact home ---- */
+
+.home-compact {
+  padding: 3rem 1.5rem;
+}
+
+.home-compact-inner {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.home-compact p,
+.home-compact li {
+  font-size: 1.05rem;
+}
+
+.home-compact h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.home-compact ul {
+  margin-bottom: 1rem;
+}
+
+.home-compact hr {
+  margin: 1.5rem 0;
+}
+
+.home-compact .hero-actions {
+  justify-content: flex-start;
+  margin-top: 1.25rem;
+}
+
 /* ---- Page hero (inner pages) ---- */
 
 .page-hero {
