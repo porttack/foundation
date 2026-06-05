@@ -18,6 +18,8 @@ org:
 nav_pages:
   - title: Home
     url: /
+  - title: Programs
+    url: /programs/
   - title: Donate
     url: /donate/
 
