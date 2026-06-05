@@ -18,16 +18,6 @@ org:
 nav_pages:
   - title: Home
     url: /
-  - title: About
-    url: /about/
-  - title: Scholarships
-    url: /scholarships/
-  - title: Programs
-    url: /programs/
-  - title: Community Partners
-    url: /community-partners/
-  - title: News
-    url: /news/
   - title: Donate
     url: /donate/
 
