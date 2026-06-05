@@ -10,17 +10,10 @@ Your donation directly supports students and schools in the San Lorenzo Valley U
   <h2>Make a Donation</h2>
   <p>Every contribution — large or small — makes a difference for SLV students.</p>
 
-  <!-- ============================================
-       PAYPAL DONATE BUTTON
-       Replace this placeholder with your PayPal
-       Donate button embed code.
-       Get it at: paypal.com/donate/buttons
-       Use the nonprofit/501c3 flow for reduced fees.
-       ============================================ -->
-  <div class="paypal-placeholder">
-    <p><strong>PayPal Donate Button</strong></p>
-    <p>To add the PayPal button: log in to paypal.com → Tools → PayPal Buttons → Donate → copy the embed code and paste it here in place of this placeholder.</p>
-  </div>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=UZDX47HHMQKHN" target="_blank" rel="noopener" class="donate-btn" style="font-size:1.1rem; padding:0.8rem 2.5rem;">
+    Donate via PayPal
+  </a>
+  <p style="margin-top:1rem; font-size:0.9rem; color:#666;">You will be taken to PayPal's secure checkout.</p>
 
 </div>
 
