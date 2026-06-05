@@ -1,11 +1,7 @@
 title: SLV Foundation for Education
 description: Funding Education In San Lorenzo Valley since 2003
-baseurl: "/foundation"
-url: "https://porttack.github.io"
-
-# When custom domain is live, change to:
-# baseurl: ""
-# url: "https://slvfoundation.org"
+baseurl: ""
+url: "https://slvfoundation.org"
 
 theme: minima
 
