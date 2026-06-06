@@ -14,6 +14,7 @@ The SLV Foundation for Education (SLVFE) is a 501(c)(3) non-profit organization 
 | Bryan Largay | Vice President |
 | Eric Brown | Treasurer |
 | Kat Gafford | Secretary |
+| Chris Schiermeyer | Ex-Officio Member (non-voting), SLVUSD Superintendent |
 
 ## Contact Us
 

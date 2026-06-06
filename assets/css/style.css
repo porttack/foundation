@@ -450,6 +450,39 @@ hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
 .content-inner h2 { margin-top: 2rem; margin-bottom: 0.75rem; }
 .content-inner h3 { margin-top: 1.5rem; }
 
+/* ---- Tables ---- */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+}
+
+th {
+  background: var(--green-dark);
+  color: var(--white);
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 600;
+  text-align: left;
+  padding: 0.6rem 1rem;
+}
+
+td {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--text-mid);
+  vertical-align: top;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+tr:nth-child(even) td {
+  background: var(--cream);
+}
+
 /* ---- News listing ---- */
 
 .news-list {
