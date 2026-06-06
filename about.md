@@ -13,7 +13,7 @@ The SLV Foundation for Education (SLVFE) is a 501(c)(3) non-profit organization 
 | Jacqui Rice | President | [SLVUSD Trustee](https://www.slvusd.org/apps/pages/index.jsp?uREC_ID=1128286&type=d&pREC_ID=1399055) |
 | Bryan Largay | Vice President | [SLVWD Director](https://www.slvwd.com/directory.aspx?EID=10), [Land Trust Santa Cruz](https://landtrustsantacruz.org/about/) |
 | Eric Brown | Treasurer | [SLVUSD Teacher](https://porttack.com) |
-| Kat Gafford | Secretary | SLVUSD Staff |
+| Kat Gafford | Secretary | [Valley Women's Club](https://valleywomensclub.org/board-of-directors/), SLVUSD Staff |
 | Chris Schiermeyer | Ex-Officio Member (non-voting) | [SLVUSD Superintendent](https://www.slvusd.org/apps/pages/index.jsp?uREC_ID=1128468&type=d&pREC_ID=1399200) |
 
 ## Annual Meeting
@@ -31,3 +31,5 @@ Ben Lomond, CA 95005
 ## This Website
 
 This site is open source and hosted on GitHub Pages. You can view the source code at [github.com/porttack/foundation](https://github.com/porttack/foundation).
+
+**Webmaster:** [Eric Brown](https://porttack.com)
