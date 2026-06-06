@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/ebrown/src/foundation status)",
+      "Bash(git -C /Users/ebrown/src/foundation diff)",
+      "Bash(git -C /Users/ebrown/src/foundation add programs.md)",
+      "Bash(git -C /Users/ebrown/src/foundation commit -m ' *)",
+      "Bash(git -C /Users/ebrown/src/foundation push)",
+      "Bash(git -C /Users/ebrown/src/foundation add index.md)",
+      "Bash(git -C /Users/ebrown/src/foundation add -A)"
+    ]
+  }
+}
