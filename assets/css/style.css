@@ -483,6 +483,10 @@ tr:nth-child(even) td {
   background: var(--cream);
 }
 
+table a {
+  text-decoration: underline;
+}
+
 /* ---- News listing ---- */
 
 .news-list {
