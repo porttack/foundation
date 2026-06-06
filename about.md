@@ -27,3 +27,7 @@ Our annual meeting is held on the **Tuesday before May 15th** each year at **5:0
 **Address:**
 325 Marion Ave
 Ben Lomond, CA 95005
+
+## This Website
+
+This site is open source and hosted on GitHub Pages. You can view the source code at [github.com/porttack/foundation](https://github.com/porttack/foundation).
