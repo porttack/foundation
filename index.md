@@ -3,12 +3,17 @@ layout: default
 title: Home
 ---
 
+<section class="home-banner">
+  <div class="home-banner-inner">
+    <p class="home-tagline">Funding Education In San Lorenzo Valley since 2003</p>
+    <h1 class="home-org-name">SLV Foundation for Education</h1>
+    <p class="home-vision"><strong>Our Vision</strong> — Excellence in public education — for all students.</p>
+    <p class="home-mission"><strong>Our Mission</strong> — To help the students of the San Lorenzo Valley Unified School District achieve success in an increasingly complex, diverse and challenging world.</p>
+  </div>
+</section>
+
 <section class="home-compact">
   <div class="home-compact-inner">
-
-    <p><strong>Our Vision</strong> — Excellence in public education — for all students.</p>
-
-    <p><strong>Our Mission</strong> — To help the students of the San Lorenzo Valley Unified School District achieve success in an increasingly complex, diverse and challenging world.</p>
 
     <p><strong>We Accomplish This By —</strong></p>
     <ul>

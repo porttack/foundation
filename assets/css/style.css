@@ -335,6 +335,50 @@ hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
   font-size: 1.05rem;
 }
 
+/* ---- Home banner ---- */
+
+.home-banner {
+  background: linear-gradient(135deg, var(--green-dark) 0%, var(--green-mid) 100%);
+  padding: 2.5rem 1.5rem;
+  text-align: center;
+}
+
+.home-banner-inner {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.home-tagline {
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--green-light);
+  margin-bottom: 0.5rem;
+}
+
+.home-org-name {
+  font-family: 'Lora', serif;
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  font-weight: 700;
+  color: var(--gold-light);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 1.25rem;
+}
+
+.home-vision,
+.home-mission {
+  color: rgba(255,255,255,0.9);
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.home-vision strong,
+.home-mission strong {
+  color: var(--gold-light);
+}
+
 /* ---- Compact home ---- */
 
 .home-compact {
