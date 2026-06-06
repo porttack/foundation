@@ -18,10 +18,11 @@ Website for the San Lorenzo Valley Foundation for Education — a 501(c)(3) non-
 | File | Page | Status |
 |------|------|--------|
 | `index.md` | Home | Live |
+| `about.md` | About Us | Live |
 | `programs.md` | Programs | Live |
 | `donate.md` | Donate | Live — PayPal linked |
 
-Pages removed for now (content preserved in git history): About, Scholarships, Community Partners, News.
+Pages removed for now (content preserved in git history): Scholarships, Community Partners, News.
 
 ## How to edit content
 
@@ -49,13 +50,12 @@ To restore a removed page (About, Scholarships, etc.):
 
 ## TODO
 
-- [ ] Redirect `slvfoundation.com` and `www.slvfoundation.com` → `slvfoundation.org` (via registrar URL forwarding or Cloudflare)
+- [x] Redirect `slvfoundation.com` and `www.slvfoundation.com` → `slvfoundation.org`
+- [x] Restore and update the About page
 - [ ] Confirm PayPal donate button goes to the right account (test the live link)
 - [ ] Convert logo to PNG for better favicon compatibility across older browsers
-- [ ] Restore and update the About page
 - [ ] Restore and update the Scholarships page
-- [ ] Add board meeting dates/info once available
-- [ ] Add real Facebook URL to `_config.yml` (currently a placeholder)
+- [ ] Remove Facebook placeholder from `_config.yml`
 
 ## Local development (optional)
 
