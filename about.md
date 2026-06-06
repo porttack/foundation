@@ -18,7 +18,7 @@ The SLV Foundation for Education (SLVFE) is a 501(c)(3) non-profit organization 
 
 ## Annual Meeting
 
-Our annual meeting is held on the **Tuesday before May 15th** each year. All community members are welcome to attend.
+Our annual meeting is held on the **Tuesday before May 15th** each year at **5:00pm** in the SLVUSD District Office Board Room, 325 Marion Ave, Ben Lomond. All community members are welcome to attend.
 
 ## Contact Us
 
