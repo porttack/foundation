@@ -8,13 +8,13 @@ The SLV Foundation for Education (SLVFE) is a 501(c)(3) non-profit organization 
 
 ## Board of Officers
 
-| Name | Role |
-|------|------|
-| Jacqui Rice | President |
-| Bryan Largay | Vice President |
-| Eric Brown | Treasurer |
-| Kat Gafford | Secretary |
-| Chris Schiermeyer | Ex-Officio Member (non-voting), SLVUSD Superintendent |
+| Name | Role | Affiliation |
+|------|------|-------------|
+| Jacqui Rice | President | SLVUSD Trustee |
+| Bryan Largay | Vice President | Land Trust, Community Member |
+| Eric Brown | Treasurer | SLVUSD Teacher |
+| Kat Gafford | Secretary | SLVUSD Staff |
+| Chris Schiermeyer | Ex-Officio Member (non-voting) | SLVUSD Superintendent |
 
 ## Contact Us
 
