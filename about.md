@@ -16,6 +16,10 @@ The SLV Foundation for Education (SLVFE) is a 501(c)(3) non-profit organization 
 | Kat Gafford | Secretary | SLVUSD Staff |
 | Chris Schiermeyer | Ex-Officio Member (non-voting) | [SLVUSD Superintendent](https://www.slvusd.org/apps/pages/index.jsp?uREC_ID=1128468&type=d&pREC_ID=1399200) |
 
+## Annual Meeting
+
+Our annual meeting is held on the **Tuesday before May 15th** each year. All community members are welcome to attend.
+
 ## Contact Us
 
 **Email:** [SLVFoundation4Education@gmail.com](mailto:SLVFoundation4Education@gmail.com)
